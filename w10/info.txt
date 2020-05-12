@@ -1,0 +1,5 @@
+Tallinn,151
+Viljandi,21234
+Raasiku,31234
+Kuressaare,41254
+Kärdla,552315
